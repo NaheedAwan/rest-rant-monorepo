@@ -10,6 +10,7 @@ import SignUpForm from './users/SignUpForm'
 import LoginForm from './users/LoginForm'
 import CurrentUserProvider from './contexts/CurrentUser'
 
+
 function App() {
   return (
     <CurrentUserProvider>
